@@ -1,0 +1,20 @@
+Tagline: 
+Excerpt: Pull from excel
+
+Linkedin: jessicatriana
+Github: ""
+
+Edu: St. Edwards University MBA 2014
+    - Texas State University BA 2012
+
+Work: Lexus
+    - Automotive product specialist and narrator on national auto show circuit in various US cities
+
+Quote: "Treat the earth well; it was not given to you by your parents, it was loaned to you by your children." - Osage Tribe
+Places- Sequioa National Park
+    - Manuel Antonio, CR
+    - Rocky Mountain National Park
+
+Favorites:
+    - Dessert - Baclava
+    - Season - Fall
